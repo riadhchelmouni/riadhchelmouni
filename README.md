@@ -43,9 +43,13 @@
   </a>
 
   <!-- Backend & APIs -->
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.datocms-assets.com/48294/1680848744-rest-api-1-rest-api.png?auto=format" alt="REST API" width="40" height="40"/>
-  </a>
+<a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+  <img src="https://e7.pngegg.com/pngimages/592/502/png-clipart-logo-application-programming-interface-computer-programming-application-software-api-text-photography-thumbnail.png" 
+       alt="REST API" 
+       width="40" 
+       height="40" />
+</a>
+
 
 
   <!-- Databases -->
