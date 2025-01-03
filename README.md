@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🌱 I’m currently learning **Full Stack Web Developer & Consultant | REST APIs, Server Programming**
+- 🌱 I’m currently learning **Junior Software Developer**
 
 - 💬 Ask me about **react and vue.js**
 
