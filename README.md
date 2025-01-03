@@ -44,8 +44,9 @@
 
   <!-- Backend & APIs -->
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="[https://www.vectorlogo.zone/logos/rest/rest-icon.svg](https://www.datocms-assets.com/48294/1680848744-rest-api-1-rest-api.png?auto=format)" alt="rest-api" width="40" height="40"/>
+    <img src="https://www.datocms-assets.com/48294/1680848744-rest-api-1-rest-api.png?auto=format" alt="REST API" width="40" height="40"/>
   </a>
+
 
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
