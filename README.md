@@ -44,7 +44,7 @@
 
   <!-- Backend & APIs -->
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rest/rest-icon.svg" alt="rest-api" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/rest/rest-icon.svg](https://www.datocms-assets.com/48294/1680848744-rest-api-1-rest-api.png?auto=format)" alt="rest-api" width="40" height="40"/>
   </a>
 
   <!-- Databases -->
@@ -61,9 +61,6 @@
   </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
 
   <!-- Web Development -->
