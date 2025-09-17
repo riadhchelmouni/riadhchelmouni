@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🌱 I’m currently learning **Junior Software Developer**
+- 🌱 I’m currently learning **BACKEND ENGINEER**
 
-- 💬 Ask me about **react and vue.js**
+- 💬 Ask me about **JavaScript And Python (Django, Scrapy)**
 
 - 📫 How to reach me **chelmouni.yazidriadh@gmail.com**
 
