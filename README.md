@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm YAZID RIADH CHELMOUNI</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Developer | Backend-Focused | Python (Django) | APIs | React | Docker</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-
-- 🌱 I’m currently learning **BACKEND ENGINEER**
 
 - 💬 Ask me about **JavaScript And Python (Django, Scrapy)**
 
