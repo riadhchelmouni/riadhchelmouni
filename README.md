@@ -1,39 +1,58 @@
-# 👨‍💻 Yazid Riadh Chelmouni
-**Senior Full Stack Web Developer | Backend Enthusiast | Automation Specialist**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=YAZID+RIADH+CHELMOUNI;Senior+Full+Stack+Developer;Backend+Architect+%26+Automation" alt="Typing SVG" />
+</h1>
 
----
-
-### 🛠️ Tech Stack & Expertise
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), TypeScript, PHP, Go, C |
-| **Backend** | Django, Symfony, Node.js, Scrapy (Web Scraping) |
-| **Frontend** | React, Vue.js, Tailwind CSS, Bootstrap |
-| **Testing** | Cypress (E2E), Vitest, PyTest |
-| **DevOps & Data** | Docker, PostgreSQL, MySQL, MongoDB, Redis, n8n |
-
----
-
-### 🚀 Highlights
-- 🧠 **Backend-Focused**: Conception d'APIs robustes et scalables.
-- 🧪 **Quality Driven**: Adoption systématique des tests avec **Cypress** et **Vitest**.
-- 🤖 **Automation**: Expert en Web Scraping complexe et workflows automatisés.
-- 🐳 **Cloud Ready**: Maîtrise des environnements conteneurisés avec Docker.
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=tokyonight" height="150" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/yazid-riadh-chelmouni/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:chelmouni.yazidriadh@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
 </p>
 
 ---
 
-### 📫 Connect with me
+### ⚡ About Me
+Expert en développement full-stack avec une forte inclinaison pour l'**architecture Backend** et l'**automatisation**. Je conçois des solutions scalables en intégrant une culture de test rigoureuse.
+
+* 🔭 **Actuellement :** Full Stack Developer @ Intaj Digital.
+* 🛠️ **Expertise :** Conception d'APIs complexes (Django/Symfony) et automatisation de workflows (n8n/Python).
+* 🧪 **Qualité :** Obsédé par la fiabilité avec **Vitest** et **Cypress**.
+* 🌐 **Vision :** Digitaliser le marché local (Projet Munjiz) et exploration du Web3/3D.
+
+---
+
+### 🛠️ Technical Ecosystem
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | `Python (Django)` `PHP (Symfony)` `Node.js` `Go` |
+| **Frontend** | `React` `Vue.js` `TypeScript` `Tailwind CSS` |
+| **Testing** | `Cypress` `Vitest` `Pytest` |
+| **Data & Automation** | `PostgreSQL` `Redis` `Scrapy` `n8n` `Docker` |
+
+---
+
+### 📈 Activity & Insights
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=votre-username&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+### 🏗️ Industrial-Tech Tools
 <p align="left">
-  <a href="https://www.linkedin.com/in/yazid-riadh-chelmouni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chelmouni.yazidriadh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/riadhchelmouni"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://skillicons.dev/icons?i=python,django,php,symfony,ts,react,vue,docker,mysql,postgres,linux,git,github,n8n,vitest,cypress" />
+</p>
+
+---
+
+<p align="right">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
