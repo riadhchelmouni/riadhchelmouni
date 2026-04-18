@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=YAZID+RIADH+CHELMOUNI;Backend-Focused+Architect;Crafting+Scalable+Solutions;Senior+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=800&color=FACC15&center=true&vCenter=true&width=700&lines=YAZID+RIADH+CHELMOUNI;Backend-Focused+Architect;Senior+Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -26,7 +26,7 @@
       <td width="55%" valign="top" align="left">
         <br>
         <h2>👨‍💻 Core Competencies</h2>
-        <p>I am a <strong>Senior Full Stack Developer</strong> with a global mindset, specializing in designing robust, low-latency architectures. My expertise lies in <strong>Backend Engineering</strong>, workflow automation, and maintaining code quality under high-load production environments.</p>
+        <p>I am a <strong>Senior Full Stack Developer</strong> with a global mindset, specialized in designing robust, low-latency architectures. My expertise lies in <strong>Backend Engineering</strong>, workflow automation, and maintaining code quality under high-load production environments.</p>
         <ul>
           <li>🧪 Expert in <strong>Django</strong> (Python) & <strong>Symfony</strong> (PHP).</li>
           <li>⚡ High-standard QA with <strong>Cypress</strong> and <strong>Vitest</strong>.</li>
@@ -67,12 +67,24 @@
 <br>
 <hr>
 
+<h2 align="center">⚡️ Stats</h2>
+<br>
 <div align="center">
-  <br>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=riadhchelmouni&theme=transparent&count_private=true&show_icons=true&rank_icon=github&text_color=ffffff&icon_color=FACC15&title_color=FACC15" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=riadhchelmouni&theme=transparent&count_private=true&border_radius=10&stroke=FACC15&ring=FACC15&fire=FACC15&currStreakNum=ffffff" alt="Streak Stats" />
+  <br><br>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=riadhchelmouni&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&text_color=ffffff&icon_color=FACC15&title_color=FACC15" alt="Most Used Languages" />
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
   <h3>Let's Architect Something Extraordinary</h3>
   <p>Available for high-impact roles, consulting, or global projects.</p>
-  <br>
 </div>
 
 <p align="right">
-  <i>"Excellence is
+  <i>"Excellence is not an act, but a habit."</i>
+</p>
