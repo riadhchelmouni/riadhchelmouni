@@ -26,7 +26,7 @@
       <td width="55%" valign="top" align="left">
         <br>
         <h2>👨‍💻 Core Competencies</h2>
-        <p>I am a <strong>Senior Full Stack Developer</strong> with a global mindset, specialized in designing robust, low-latency architectures. My expertise lies in <strong>Backend Engineering</strong>, workflow automation, and maintaining code quality under high-load production environments.</p>
+        <p>I am a <strong>Senior Full Stack Engineer| Vue.js 3, React, NestJS & Django</strong> with a global mindset, specialized in designing robust, low-latency architectures. My expertise lies in <strong>Backend Engineering</strong>, workflow automation, and maintaining code quality under high-load production environments.</p>
         <ul>
           <li>🧪 Expert in <strong>Django</strong> (Python) & <strong>Symfony</strong> (PHP).</li>
           <li>⚡ High-standard QA with <strong>Cypress</strong> and <strong>Vitest</strong>.</li>
